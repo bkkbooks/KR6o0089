@@ -1,0 +1,118 @@
+canonical_identifier: bkk:krp/KR6o0089/X/v1
+canonical_location: https://kanripo.org/bkk/KR6o0089/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 釋摩訶衍論記
+  identifiers:
+    krp: KR6o0089
+    cbeta: X46n0774
+    cbeta_old_id: X46n0774
+    authorityid: CA0003146
+    json_key: X0774
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X46/X46n0774.xml
+    old_id: X46n0774
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0089_000-X.yaml, hash: 'sha256:d01bbb33da8089430e7c23529fd10aef3b18af8eebdddbdbcdeb909ea3018e5a'}
+  - {seq: 1, filename: KR6o0089_001-X.yaml, hash: 'sha256:9b9d8a281c97c338b4df3fd63f2493ab63ed00a9f88e42800b355a95bb1d82c9'}
+  - {seq: 2, filename: KR6o0089_002-X.yaml, hash: 'sha256:81f72b174c45265fe7a706ef6f3427e2f4ab118745c2904ebd5662357954c726'}
+  - {seq: 3, filename: KR6o0089_003-X.yaml, hash: 'sha256:c422e158ed502f8c34d63ef95c3349641b292f3494f3a180e07322869ab74642'}
+  - {seq: 4, filename: KR6o0089_004-X.yaml, hash: 'sha256:4e3c8eed8968eabe30068074bb7b034b9d87982929e66474a853f373e9985279'}
+  - {seq: 5, filename: KR6o0089_005-X.yaml, hash: 'sha256:5c7f254f4c166af4fd3715c75483538bb4586ba219976d51d074849eb420bff4'}
+  - {seq: 6, filename: KR6o0089_006-X.yaml, hash: 'sha256:8485865ac38156b9f49bf8f88fa72ea80daf75b22599fd1f147911cd57fe5744'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6o0089_000-X.markers.yaml, hash: 'sha256:d9001e250b9bae206a2b6e0fd89584d98ebfc6dd255583a745dbeaeb77415a7f'}
+  - {seq: 1, role: markers, filename: assets/KR6o0089_001-X.markers.yaml, hash: 'sha256:6d27238361b3876ad3db53615480658981b564ca52bcee8547fa88ec58ad683d'}
+  - {seq: 2, role: markers, filename: assets/KR6o0089_002-X.markers.yaml, hash: 'sha256:3a9ad807e97b67ed1d8e580884976bfa3cc2b9c48993400761f55a20388b7604'}
+  - {seq: 3, role: markers, filename: assets/KR6o0089_003-X.markers.yaml, hash: 'sha256:d4d98e3887ea37c3b5a03432235ff1c9c9d7f050eb86c69f4eccbbb7aca18902'}
+  - {seq: 4, role: markers, filename: assets/KR6o0089_004-X.markers.yaml, hash: 'sha256:e5afdd82476187678770815e8d7cb4717c6e241306e1fecde7ed6db6064f01f2'}
+  - {seq: 5, role: markers, filename: assets/KR6o0089_005-X.markers.yaml, hash: 'sha256:0d4b09074ecd476861eab712bcb9d59be85f786f60be973dcb34fff02e87f200'}
+  - {seq: 6, role: markers, filename: assets/KR6o0089_006-X.markers.yaml, hash: 'sha256:a7a6cab557b9a6f9c625c5a343e55a4c0475a3ac6d15e6dfd07d3bce5547dc45'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6o0089_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6o0089_X_000-mulu-2
+    span:
+    - front
+    - 83
+    - 83
+  label: 釋摩訶衍論記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6o0089_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 19337
+  label: 釋摩訶衍論記卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6o0089_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 19208
+  label: 釋摩訶衍論記卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6o0089_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 17052
+  label: 釋摩訶衍論記卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6o0089_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 15292
+  label: 釋摩訶衍論記卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6o0089_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 19294
+  label: 釋摩訶衍論記卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6o0089_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 15830
+  label: 釋摩訶衍論記卷第六
+  type: juan
+  level: 1
+hash: sha256:6016bf1178a96c0cf0fc6f71b2a7f5b37507d4217bc240c040ca85d1b955aa63

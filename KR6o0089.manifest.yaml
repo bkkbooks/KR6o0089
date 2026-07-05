@@ -22,19 +22,20 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6o0089_000.yaml, hash: 'sha256:d01bbb33da8089430e7c23529fd10aef3b18af8eebdddbdbcdeb909ea3018e5a'}
-  - {seq: 1, filename: KR6o0089_001.yaml, hash: 'sha256:c0abdfce1e1462cd4fb79ec78616739cb8e9040c41b238e5a64a00882a911515'}
-  - {seq: 2, filename: KR6o0089_002.yaml, hash: 'sha256:a1b077a3fdb410f26177e6fa43e2f7e6ae4ba785b5bb30e230bc735a5a29aeda'}
-  - {seq: 3, filename: KR6o0089_003.yaml, hash: 'sha256:58be9824cd81448b7f374e2eec9f8a94797abf3bf433e3c991ed3ffca5b61ca5'}
-  - {seq: 4, filename: KR6o0089_004.yaml, hash: 'sha256:dd5ea1f6f1027eea5f85effa20473b04f447a93849ad9b89d7930304d56abf6e'}
-  - {seq: 5, filename: KR6o0089_005.yaml, hash: 'sha256:b01d8be4ea61c3329e2103e6618ea31f2eab763f3f06ec570273ef3b8db3c755'}
-  - {seq: 6, filename: KR6o0089_006.yaml, hash: 'sha256:5d0c3b306b333ecae81fbad56c6c9b142d222dc0c17ca2e9746c55387307d596'}
+  - {seq: 1, filename: KR6o0089_001.yaml, hash: 'sha256:9b9d8a281c97c338b4df3fd63f2493ab63ed00a9f88e42800b355a95bb1d82c9'}
+  - {seq: 2, filename: KR6o0089_002.yaml, hash: 'sha256:81f72b174c45265fe7a706ef6f3427e2f4ab118745c2904ebd5662357954c726'}
+  - {seq: 3, filename: KR6o0089_003.yaml, hash: 'sha256:c422e158ed502f8c34d63ef95c3349641b292f3494f3a180e07322869ab74642'}
+  - {seq: 4, filename: KR6o0089_004.yaml, hash: 'sha256:4e3c8eed8968eabe30068074bb7b034b9d87982929e66474a853f373e9985279'}
+  - {seq: 5, filename: KR6o0089_005.yaml, hash: 'sha256:5c7f254f4c166af4fd3715c75483538bb4586ba219976d51d074849eb420bff4'}
+  - {seq: 6, filename: KR6o0089_006.yaml, hash: 'sha256:8485865ac38156b9f49bf8f88fa72ea80daf75b22599fd1f147911cd57fe5744'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6o0089_001.markers.yaml, hash: 'sha256:d58d0413d4cffd42fcab9ded45c98d5ba3beef6fcdce26ff2feb81facb862628'}
-  - {seq: 2, role: markers, filename: assets/KR6o0089_002.markers.yaml, hash: 'sha256:8b63ba9364eb6681917bda427fbee53792681f54091d46c318c82755b2fc8f2a'}
-  - {seq: 3, role: markers, filename: assets/KR6o0089_003.markers.yaml, hash: 'sha256:170e2bbc0ef647293df8d909ed1a4c30b1b4bcf8cb446bcc62a9e6aa4f19cb2b'}
-  - {seq: 4, role: markers, filename: assets/KR6o0089_004.markers.yaml, hash: 'sha256:5e83679377f76be1d3fa9d6987c4865bcdcacb8a37f5501dba5018fef89c6988'}
-  - {seq: 5, role: markers, filename: assets/KR6o0089_005.markers.yaml, hash: 'sha256:cb229eb30e60e49b39fd1f489f9a167ea11d5068e66cf6916ff4c1dec2d6646f'}
-  - {seq: 6, role: markers, filename: assets/KR6o0089_006.markers.yaml, hash: 'sha256:9ea5efbe7384277bb87d99a2a307745fec8baddfa3f63416d69b9a7785e7b6ac'}
+  - {seq: 0, role: markers, filename: assets/KR6o0089_000.markers.yaml, hash: 'sha256:322d393eef6f98862408e67985e07d822a0905ee1967c2a25d96ac886f9a05b5'}
+  - {seq: 1, role: markers, filename: assets/KR6o0089_001.markers.yaml, hash: 'sha256:74c1b7456538651433637c2921ace2d142c40ebc7bc4f7444a08bde707188892'}
+  - {seq: 2, role: markers, filename: assets/KR6o0089_002.markers.yaml, hash: 'sha256:73ea04295dfcc82ef86389b3c94c2c94f40e57bcc61ce9522279e152772530ea'}
+  - {seq: 3, role: markers, filename: assets/KR6o0089_003.markers.yaml, hash: 'sha256:c974e71d37dfba2f2dffcecf27c0beb9ce0be9fe2f5299e0b1cfc561e8cf5205'}
+  - {seq: 4, role: markers, filename: assets/KR6o0089_004.markers.yaml, hash: 'sha256:435767d833869a27b973b797436e96b5703fcac97e39dc425f959e3da1c54a35'}
+  - {seq: 5, role: markers, filename: assets/KR6o0089_005.markers.yaml, hash: 'sha256:6784c93ec3669cbd70454315c3a97ac3f470f83ef2c464760798f6f528c42b34'}
+  - {seq: 6, role: markers, filename: assets/KR6o0089_006.markers.yaml, hash: 'sha256:9fcdd36c757de2932463483f9d883d8eb417f159fe722b9055ccf240087ca916'}
 table_of_contents:
 - ref:
     seq: 0
@@ -116,7 +117,4 @@ table_of_contents:
   label: 釋摩訶衍論記卷第六
   type: juan
   level: 1
-hash: sha256:3166e8468dc35e03d4e286d022fb03185b7c0326b49fb2aea8ce54b1e382f4e2
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:983dde8361b1d16086b569fcb3a16e63aee7123458ef25070c7fc41e187e0083

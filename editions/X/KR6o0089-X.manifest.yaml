@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6o0089_000-X.yaml, hash: 'sha256:d01bbb33da8089430e7c23529fd10aef3b18af8eebdddbdbcdeb909ea3018e5a'}
+  - {seq: 0, filename: KR6o0089_000-X.yaml, hash: 'sha256:2764dbb376b24f9514aacad9ef21a10a668600523b6d6bb6a88fea04c8b6a01d'}
   - {seq: 1, filename: KR6o0089_001-X.yaml, hash: 'sha256:9b9d8a281c97c338b4df3fd63f2493ab63ed00a9f88e42800b355a95bb1d82c9'}
   - {seq: 2, filename: KR6o0089_002-X.yaml, hash: 'sha256:81f72b174c45265fe7a706ef6f3427e2f4ab118745c2904ebd5662357954c726'}
   - {seq: 3, filename: KR6o0089_003-X.yaml, hash: 'sha256:c422e158ed502f8c34d63ef95c3349641b292f3494f3a180e07322869ab74642'}
@@ -27,7 +27,7 @@ assets:
   - {seq: 5, filename: KR6o0089_005-X.yaml, hash: 'sha256:5c7f254f4c166af4fd3715c75483538bb4586ba219976d51d074849eb420bff4'}
   - {seq: 6, filename: KR6o0089_006-X.yaml, hash: 'sha256:8485865ac38156b9f49bf8f88fa72ea80daf75b22599fd1f147911cd57fe5744'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6o0089_000-X.markers.yaml, hash: 'sha256:d9001e250b9bae206a2b6e0fd89584d98ebfc6dd255583a745dbeaeb77415a7f'}
+  - {seq: 0, role: markers, filename: assets/KR6o0089_000-X.markers.yaml, hash: 'sha256:a9cf6a9781349e2c93f94818ae9871ec6c59c8aea956893ad12859f9278ff2df'}
   - {seq: 1, role: markers, filename: assets/KR6o0089_001-X.markers.yaml, hash: 'sha256:6d27238361b3876ad3db53615480658981b564ca52bcee8547fa88ec58ad683d'}
   - {seq: 2, role: markers, filename: assets/KR6o0089_002-X.markers.yaml, hash: 'sha256:3a9ad807e97b67ed1d8e580884976bfa3cc2b9c48993400761f55a20388b7604'}
   - {seq: 3, role: markers, filename: assets/KR6o0089_003-X.markers.yaml, hash: 'sha256:d4d98e3887ea37c3b5a03432235ff1c9c9d7f050eb86c69f4eccbbb7aca18902'}
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6o0089_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 目次
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6o0089_X_000-mulu-2
     span:
-    - front
+    - body
     - 83
     - 83
   label: 釋摩訶衍論記
@@ -115,4 +115,4 @@ table_of_contents:
   label: 釋摩訶衍論記卷第六
   type: juan
   level: 1
-hash: sha256:6016bf1178a96c0cf0fc6f71b2a7f5b37507d4217bc240c040ca85d1b955aa63
+hash: sha256:1f38c58bc0e7fecd3e0c87ca06554bedeb50c3e6784f971425c8cd8583b72c41

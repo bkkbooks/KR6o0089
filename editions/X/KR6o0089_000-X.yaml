@@ -1,14 +1,11 @@
 canonical_identifier: bkk:krp/KR6o0089/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 釋摩訶衍論記目次卷第一釋題目已下卷第二釋解釋分已下卷第三釋後重能依義已下卷第四釋不覺本上顯過門已下卷第五釋顯示生滅相已下卷第六釋分別發趣道相已下至終釋摩訶衍論記目次終
   hash: sha256:ded405697e54bdeb3b865f1e366f13ba366794474b5c89c7a6516a982f3891df
   markers:
   - {type: 其他, offset: 0, content: 目次, id: KR6o0089_X_000-mulu-1, level: '1'}
   - {type: 其他, offset: 83, content: 釋摩訶衍論記, id: KR6o0089_X_000-mulu-2, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 釋摩訶衍論記
   edition:
@@ -17,4 +14,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X46/X46n0774.xml
     old_id: X46n0774
-hash: sha256:d01bbb33da8089430e7c23529fd10aef3b18af8eebdddbdbcdeb909ea3018e5a
+hash: sha256:2764dbb376b24f9514aacad9ef21a10a668600523b6d6bb6a88fea04c8b6a01d

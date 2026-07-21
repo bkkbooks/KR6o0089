@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6o0089_000.yaml, hash: 'sha256:d01bbb33da8089430e7c23529fd10aef3b18af8eebdddbdbcdeb909ea3018e5a'}
+  - {seq: 0, filename: KR6o0089_000.yaml, hash: 'sha256:2764dbb376b24f9514aacad9ef21a10a668600523b6d6bb6a88fea04c8b6a01d'}
   - {seq: 1, filename: KR6o0089_001.yaml, hash: 'sha256:7247b701de5f0afb30a12fcf5cb325302c7be8491e9622d8a157063004883f44'}
   - {seq: 2, filename: KR6o0089_002.yaml, hash: 'sha256:a1e2d190fd625d9408f88f51e1439493ba73557d5cea4b0ccbb129db479b02a7'}
   - {seq: 3, filename: KR6o0089_003.yaml, hash: 'sha256:cd85c7f0c74a08ecde7d955f804fbe013a4bbb3ce47f3914afa07116286316a3'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 5, filename: KR6o0089_005.yaml, hash: 'sha256:b3941693b4109fde9e31381ccd22ca0259879a18c047b03a9e1cb005c0ab0edb'}
   - {seq: 6, filename: KR6o0089_006.yaml, hash: 'sha256:a79d871d6719991b25b6beb7924057c5a78aedbb992addacd5a133f68cd43956'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6o0089_000.markers.yaml, hash: 'sha256:322d393eef6f98862408e67985e07d822a0905ee1967c2a25d96ac886f9a05b5'}
+  - {seq: 0, role: markers, filename: assets/KR6o0089_000.markers.yaml, hash: 'sha256:9cb727ffb8eb32f0eee273e7f98e23313d9cb4f933c315cce09edaeb537ede11'}
   - {seq: 1, role: markers, filename: assets/KR6o0089_001.markers.yaml, hash: 'sha256:413887a464cbcdcb97a9f7b21dcbc42aab00b97c0d4aab1ede29606c16df2863'}
   - {seq: 2, role: markers, filename: assets/KR6o0089_002.markers.yaml, hash: 'sha256:eb177097fb63a87c19c449c9346dfa2a75720b7afbad8e1bbc92c09668adb313'}
   - {seq: 3, role: markers, filename: assets/KR6o0089_003.markers.yaml, hash: 'sha256:b1ba0644248e5bd3e3316b081569bfc2c6169935fa6bc283fe1940b4a9d48689'}
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6o0089_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 目次
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6o0089_X_000-mulu-2
     span:
-    - front
+    - body
     - 83
     - 83
   label: 釋摩訶衍論記
@@ -117,7 +117,7 @@ table_of_contents:
   label: 釋摩訶衍論記卷第六
   type: juan
   level: 1
-hash: sha256:58eb9fd3da22c2610171af15986c68cc9ce743cea85eb5cb6539b4d9c184653c
+hash: sha256:17d2e3ea14a46d438380461f766ad5e3795f7b98af69b75538ee2f7be7856836
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
